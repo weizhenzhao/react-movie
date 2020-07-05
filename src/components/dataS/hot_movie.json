@@ -1,0 +1,76 @@
+{
+    "reason": "success",
+    "result": [
+        {
+            "movieId": "266397",
+            "movieName": "妙先生",
+            "pic_url": "http://img5.mtime.cn/mt/2019/12/27/102856.71740302_182X243X4.jpg"
+        },
+        {
+            "movieId": "265811",
+            "movieName": "亲爱的新年好",
+            "pic_url": "http://img5.mtime.cn/mt/2019/12/30/152412.84242013_182X243X4.jpg"
+        },
+        {
+            "movieId": "264258",
+            "movieName": "误杀",
+            "pic_url": "http://img5.mtime.cn/mt/2019/12/06/151723.54470898_182X243X4.jpg"
+        },
+        {
+            "movieId": "263815",
+            "movieName": "宠爱",
+            "pic_url": "http://img5.mtime.cn/mt/2019/12/27/102155.97632815_182X243X4.jpg"
+        },
+        {
+            "movieId": "260248",
+            "movieName": "特警队",
+            "pic_url": "http://img5.mtime.cn/mt/2019/12/16/142648.34288181_182X243X4.jpg"
+        },
+        {
+            "movieId": "242129",
+            "movieName": "叶问4：完结篇",
+            "pic_url": "http://img5.mtime.cn/mt/2019/12/17/105242.88827408_182X243X4.jpg"
+        },
+        {
+            "movieId": "237660",
+            "movieName": "天使陷落",
+            "pic_url": "http://img5.mtime.cn/mt/2019/12/27/101323.64982625_182X243X4.jpg"
+        },
+        {
+            "movieId": "223888",
+            "movieName": "夺命旅行",
+            "pic_url": "http://img31.mtime.cn/mt/2015/05/15/184935.48442893.jpg"
+        },
+        {
+            "movieId": "218090",
+            "movieName": "复仇者联盟4：终局之战",
+            "pic_url": "http://img5.mtime.cn/mt/2019/03/29/095608.66203322_182X243X4.jpg"
+        },
+        {
+            "movieId": "217723",
+            "movieName": "重生爱人",
+            "pic_url": "http://img31.mtime.cn/mt/2015/05/15/155053.90411520.jpg"
+        },
+        {
+            "movieId": "216732",
+            "movieName": "旋风九日",
+            "pic_url": "http://img31.mtime.cn/mt/2014/08/29/090932.11907376.jpg"
+        },
+        {
+            "movieId": "208618",
+            "movieName": "十二公民",
+            "pic_url": "http://img31.mtime.cn/mt/2015/05/19/150245.24681933.jpg"
+        },
+        {
+            "movieId": "205335",
+            "movieName": "超能查派",
+            "pic_url": "http://img31.mtime.cn/mt/2015/05/07/111525.93227225.jpg"
+        },
+        {
+            "movieId": "173060",
+            "movieName": "复仇者联盟2：奥创纪元",
+            "pic_url": "http://img31.mtime.cn/mt/2015/03/27/120535.53814152.jpg"
+        }
+    ],
+    "error_code": 0
+}
